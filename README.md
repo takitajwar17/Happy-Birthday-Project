@@ -1,4 +1,4 @@
-# Project Documentation: Small Happy Birthday Project
+# Project Documentation: Happy Birthday Project
 
 ## Overview
 
