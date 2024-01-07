@@ -6,7 +6,7 @@ This project is a web-based animation created using HTML5 Canvas and JavaScript.
 
 ### Deployment
 
-The deployed version of this project is available [here](https://takitajwar17.github.io/small-happy-birthday-project/).
+The deployed version of this project is available [here](https://takitajwar17.github.io/Happy-Birthday-Project/).
 
 ## Files
 
