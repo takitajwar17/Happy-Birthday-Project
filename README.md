@@ -71,4 +71,4 @@ To view the animation, open the `index.html` file in a modern web browser.
 
 ## Author
 
-This project was created by @takitajwar17 as a creative and interactive way to send birthday wishes.
+This project was created by [@takitajwar17](https://github.com/takitajwar17) as a creative and interactive way to send birthday wishes.
