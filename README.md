@@ -1,4 +1,4 @@
-# Project Documentation: Happy Birthday Wish Animation
+# Project Documentation: Small Happy Birthday Project
 
 ## Overview
 
